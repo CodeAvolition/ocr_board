@@ -14,6 +14,7 @@ which is then returned to the clipboard
 ![this is brilliant, but i like this meme](readme/2021-02-18-23-40-57.png)
 
 # Requirements
+Windows Computer, python, pip 
 pip install -r requirements.txt  
 get a tesseract.exe => maybe from here [University Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
 and place it in the same folder as ocr_board.py 
